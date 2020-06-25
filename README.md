@@ -45,7 +45,7 @@ with torchscript transformer.
       <td>500</td>
       <td>0.036</td>
       <td>42.0</td>
-      <td><a href="https://dl.fbaipublicfiles.com/detr/detr-r50-e632da11.pth">model</a>&nbsp;|&nbsp;<a href="https://dl.fbaipublicfiles.com/detr/logs/detr-r50_log.txt">logs</a></td>
+      <td><a href="https://s62myt.storage.yandex.net/rdisk/fb7fabe41a9914545bcf628237cca7f9888ef547d603fb2ee11fa7e79613c386/5ef4b5a1/Bso4Si9OZDm-EGUeNti1QXC9btIPlJ6Q9VfNpNvat18oqXmEfru0NdOO4O_ilATLp0tLNAzEiHk7u2NivbQpOg==?uid=885645071&filename=checkpoint.pth&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=885645071&fsize=496840244&hid=6742f68b2faab8adbb7a99d256073832&media_type=data&tknv=v2&etag=94c02ba376fb5b8e59b10314796c1fbf&rtoken=K3mAEKkBzzIF&force_default=yes&ycrid=na-37fd95b13a52d2128e8370c8afc3ec2b-downloader18f&ts=5a8e9786fea40&s=92f38b9fdc6e7f454317e950777e4cafe818853b08f88cd1443b63fe126d552d&pb=U2FsdGVkX1-P-csEKRxWJ8V4Yy9-WQvMdyf272mkNd_-goY9wzNM4ap3QNaCLKGrvu8_aqQdwfXNkqiMe7NtRItcVIHW4DWJ4RiEhardFN0">model</a>&nbsp;|&nbsp;<a href="https://dl.fbaipublicfiles.com/detr/logs/detr-r50_log.txt">logs</a></td>
       <td>159Mb</td>
     </tr>
     <tr>
